@@ -9,5 +9,11 @@
     ],
     "b.hatena.ne.jp": [
         "www.hatena.ne.jp"
-    ] 
+    ],
+    "127.0.0.1": [
+        "localhost"
+    ],
+    "localhost": [
+        "127.0.0.1"
+    ]
 }
