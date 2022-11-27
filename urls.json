@@ -1,0 +1,13 @@
+{
+    "www.google.com": [
+        "mail.google.com",
+        "news.google.com",
+        "map.google.com"
+    ],
+    "www.yahoo.co.jp": [
+        "news.yahoo.co.jp"
+    ],
+    "b.hatena.ne.jp": [
+        "www.hatena.ne.jp"
+    ] 
+}
